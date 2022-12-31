@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: https://g.co/kgs/kuyA6M
+title: https://www.instagram.com/sayyafsy/
 labels: documentation
 assignees: S69y
 
